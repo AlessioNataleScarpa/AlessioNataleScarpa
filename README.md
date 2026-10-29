@@ -45,16 +45,33 @@ Pandas  •  NumPy  •  PostgreSQL  •  FastAPI  •  Docker  •  Linux
 
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Featured & Core Projects
 
-* **P.U.L.S.E. Lazio**
-*Emergency Patient Flow & Triage Optimization* — An AI-driven system designed to streamline patient intake and routing during hospital triage, awarded at the AI University Championship.
-* **FinAgent**
-*Autonomous Multi-Agent Architecture for Financial Trend Analytics* — Implemented using **LangGraph**, **MCP**, and zero-shot time-series foundation models (**Chronos-Bolt**, **TimesFM**) paired with LLM reasoning.
-* **Transit Route Choice Set Generation**
-*M.Sc. Thesis Research* — High-performance GTFS transit routing engine evaluating **Connection Scan Algorithm (CSA)** target-to-all backward searches versus **RAPTOR** variants for real-world urban networks.
-* **FactCheck-Agent**
-Multi-hop verification pipeline combining dense retrieval, web verification tools, and claim decomposition using local and API-driven LLMs.
+#### 🚑 [P.U.L.S.E. Lazio — AI Emergency Triage & Flow Optimization](https://github.com/AlessioNataleScarpa)
+> *Award-winning triage optimization system presented at the AI University Championship (Stage 5, Tor Vergata).*
+- **Description:** Predictive intake scoring, bed management, and clinical decision support to mitigate ER congestion.
+- **Tech Stack:** `Python` • `Predictive Modeling` • `Multi-Agent Systems` • `Explainable AI` • `FastAPI`
+
+---
+
+#### 📈 [FinAgent — Autonomous Financial Multi-Agent Analytics](https://github.com/AlessioNataleScarpa)
+> *Autonomous multi-agent framework pairing zero-shot foundation forecasting models with agentic reasoning.*
+- **Description:** Cyclic graph workflows with LangGraph and MCP, integrating **Chronos-Bolt** and **TimesFM 3.0** for automated trend extraction.
+- **Tech Stack:** `LangGraph` • `Model Context Protocol (MCP)` • `TimesFM` • `Chronos-Bolt` • `PyTorch`
+
+---
+
+#### 🚇 [Transit Route Engine — Graph Optimization & Choice Sets](https://github.com/AlessioNataleScarpa)
+> *M.Sc. research on large-scale timetable routing algorithms over GTFS data.*
+- **Description:** Benchmarking target-to-all backward **Connection Scan Algorithm (CSA)** vs. **Decoupled RAPTOR** for multimodal route choice sets.
+- **Tech Stack:** `Graph Theory` • `CSA` • `RAPTOR` • `GTFS Networks` • `Python` • `C++`
+
+---
+
+#### 🔍 [FactCheck-Agent — Multi-Hop Claim Verification Pipeline](https://github.com/AlessioNataleScarpa)
+> *Automated end-to-end fact verification system for deep hallucination mitigation.*
+- **Description:** Sub-claim breakdown, dense retrieval across vector stores, and multi-model consensus checks using Ollama & cloud LLMs.
+- **Tech Stack:** `LangChain` • `ChromaDB` • `Ollama` • `RAG` • `Python`
 
 ---
 
