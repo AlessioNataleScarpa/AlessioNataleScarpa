@@ -1,8 +1,8 @@
 # Hi there, I'm Alessio Natale Scarpa 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alessio-natale-scarpa-291111247/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/AlessioNataleScarpa)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:alessio.natalescarpa@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail)](mailto:alenat.scarpa@gmail.com)
 
 ---
 
@@ -14,7 +14,7 @@ My work spans from designing production-ready LLM pipelines and autonomous multi
 
 - 🎓 **Education:** 
   - **M.Sc. in Computer Engineering**, Roma Tre University *(Expected July 2027)*
-  - **B.Sc. in Computer Engineering**, Roma Tre University *(110/110 con Lode)*
+  - **B.Sc. in Computer Engineering**, Roma Tre University *(110/110 cum Laude)*
 - 🏛️ **Academic Roles:** University Tutor & Quantitative Instructor in Linear Algebra, Discrete Mathematics, Operations Research, and Algorithms.
 - 🔬 **Research & Focus:** Transit routing algorithms (CSA, RAPTOR variants) on large-scale GTFS networks, time-series forecasting, and agentic workflows.
 - 🥋 **Beyond Tech:** FIJLKAM-certified Karate coach and instructor.
@@ -25,21 +25,21 @@ My work spans from designing production-ready LLM pipelines and autonomous multi
 
 **Languages & Frameworks:**
 ```text
-Python  •  C / C++  •  Java  •  SQL  •  TypeScript / JavaScript  •  Bash
+Python  •  C  •  Java  •  SQL  •  TypeScript / JavaScript  •  Bash
 
 ```
 
 **AI, Machine Learning & Agentic Systems:**
 
 ```text
-PyTorch  •  scikit-learn  •  LangChain  •  LangGraph  •  Hugging Face  •  ChromaDB  •  Model Context Protocol (MCP)
+PyTorch  • Keras • scikit-learn  •  LangChain  •  LangGraph  •  Hugging Face  •  ChromaDB  •  Model Context Protocol (MCP)
 
 ```
 
 **Data Engineering & Big Data:**
 
 ```text
-Pandas  •  NumPy  •  NetworkX  •  PostgreSQL  •  FastAPI  •  Docker  •  Linux
+Pandas  •  NumPy  •  PostgreSQL  •  FastAPI  •  Docker  •  Linux
 
 ```
 
@@ -64,7 +64,7 @@ Multi-hop verification pipeline combining dense retrieval, web verification tool
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [https://www.linkedin.com/in/alessio-natale-scarpa-291111247/](https://linkedin.com)
+* **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/alessio-natale-scarpa-291111247/)
 * **Location:** Rome, Italy
 
 ```
